@@ -76,7 +76,7 @@ yat:
 # theme_color: snowwhite
 #
 # Custom color as below:
-# theme_color: "#882250"
+  theme_color: "#882250"
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -94,11 +94,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "OKEx News & Updates"
-#     subheading: "Your awesome subheading"
-#     banner: "https://i.imgur.com/0BMiMhz.png"
+ defaults:
+   home:
+     heading: "OKEx News & Updates"
+     subheading: "Your awesome subheading"
+     banner: "https://i.imgur.com/0BMiMhz.png"
 
 # Pagination setting
 # paginate: 5
