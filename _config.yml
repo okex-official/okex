@@ -94,8 +94,8 @@ yat:
 #   - about.md
 
 # Page default value
- defaults:
-   home:
+# defaults:
+#  home:
      heading: "OKEx News & Updates"
      subheading: "Your awesome subheading"
      banner: "https://i.imgur.com/0BMiMhz.png"
