@@ -6,7 +6,7 @@
 
 theme: jekyll-theme-cayman
 description: This is for updates on OKEx 
-remote_theme : "jeffreytse/jekyll-theme-yat"
+# remote_theme : "jeffreytse/jekyll-theme-yat"
 
 title: OKEx Github Blog
 email: your-email@domain.com
