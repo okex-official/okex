@@ -98,7 +98,7 @@ yat:
 #   home:
 #     heading: "OKEx News & Updates"
 #     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+#     banner: "https://i.imgur.com/0BMiMhz.png"
 
 # Pagination setting
 # paginate: 5
