@@ -93,7 +93,7 @@ yat:
 #   - tags.html
 #   - about.md
 
-Page default value
+# Page default value
  defaults:
    home:
      heading: "OKEx News & Updates"
